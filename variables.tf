@@ -8,12 +8,12 @@ variable "ec2_configs" {
   }))
   default = {
     "instance01" = {
-      ami           = "ami-052efd3df9dad4825"
-      instance_type = "t2.micro"
-      key_name      = "key_ubuntu"
-      subnet_id     = "subnet-00dae271d03a657e3"
+      ami           = "?"
+      instance_type = "?"
+      key_name      = "?"
+      subnet_id     = "?"
       tags = {
-        "Managed-by" = "Azure"
+        "Managed-by" = "Terraform"
       }
     }
   }
