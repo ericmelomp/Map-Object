@@ -5,7 +5,7 @@
 <img src="https://www.datocms-assets.com/58478/1640019487-og-image.png">
 <div style="display: inline_block">
     <img align="center" alt="Eric-TF" img alt="GitHub issues" src="https://img.shields.io/github/issues/ericmelomp/Map-Object">
-    <img align="center" alt="Eric-TF" img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/ericmelomp/Simple-Map-Object?label=commits">
+    <img align="center" alt="Eric-TF" img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/ericmelomp/Map-Object?label=commits">
 </div>
 
 <div><br>
